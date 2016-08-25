@@ -156,10 +156,10 @@ class Catflap(object):
                 self.camera.capture(final_path)
 
                 # Consumer keys and access tokens, used for OAuth  
-                consumer_key = '8NY4lfh3CQ3oHGczZQwOEp5aD'  
-                consumer_secret = 'lnPCqmpKAMfa9OZZCY7eTBuII3iPjtFvBgqZ5oggiN0U5NTLdJ'  
-                access_token = '767810707782074369-qCDgM4ZCY5ARzMczGG6rvqTbp7ERkSI'  
-                access_token_secret = 'HRfOFrC3Q2Ep6WoB7QTB5ysfJONhxCL7Ial0fZrIrg1yf'  
+                consumer_key = 'yyy'  
+                consumer_secret = 'yyy'  
+                access_token = 'yyy'  
+                access_token_secret = 'yyy'  
                   
                 # OAuth process, using the keys and tokens  
                 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)  
